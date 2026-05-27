@@ -1,0 +1,3 @@
+*.o
+*.a
+test_flux_algebra
